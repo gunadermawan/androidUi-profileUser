@@ -30,6 +30,7 @@
                     app:layout_constraintTop_toTopOf="parent">
 
                     <androidx.constraintlayout.widget.ConstraintLayout
+                        android:id="@+id/constraintLayout"
                         android:layout_width="match_parent"
                         android:layout_height="360dp"
                         android:background="@drawable/top_background"
@@ -88,6 +89,7 @@
                         app:srcCompat="@drawable/circles" />
 
                     <LinearLayout
+                        android:id="@+id/linearLayout"
                         android:layout_width="match_parent"
                         android:layout_height="450dp"
                         android:layout_marginStart="24dp"
@@ -254,7 +256,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_weight="1"
-                                android:text="@string/tv_password"
+                                android:text="@string/tv_study_effective"
                                 android:textColor="#162676"
                                 android:textSize="18sp" />
 
@@ -263,7 +265,7 @@
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_weight="1"
-                                android:text="@string/tv_change_pass"
+                                android:text="@string/tv_study_remaining"
                                 android:textAlignment="viewEnd"
                                 android:textColor="#5B5B5B"
                                 android:textSize="16sp" />

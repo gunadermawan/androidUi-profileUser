@@ -8,10 +8,10 @@
     <string name="iv_payment">icon payment</string>
     <string name="tv_notification">Notifikasi</string>
     <string name="tv_settings">Pengaturan</string>
-    <string name="tv_password">Password</string>
-    <string name="tv_change_pass">Ubah</string>
+    <string name="tv_study_effective">Studi Efektif</string>
+    <string name="tv_study_remaining">2 Bulan 3 hari</string>
     <string name="tv_phone">Telepon</string>
-    <string name="tv_phone_number">0888-1212-1313</string>
+    <string name="tv_phone_number">0888–1212–1313</string>
     <string name="tv_address">Alamat</string>
     <string name="tv_address_user">Semarang</string>
     <string name="tv_faculty">Program Studi</string>
