@@ -3,10 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/mobile programming/ui/androidUi-profilPage/app/src/main/res/drawable/background_button.xml" value="0.159" />
         <entry key="..\:/mobile programming/ui/androidUi-profilPage/app/src/main/res/drawable/circle_background.xml" value="0.159" />
+        <entry key="..\:/mobile programming/ui/androidUi-profilPage/app/src/main/res/drawable/grey_background.xml" value="0.159" />
         <entry key="..\:/mobile programming/ui/androidUi-profilPage/app/src/main/res/drawable/top_background.xml" value="0.136" />
         <entry key="..\:/mobile programming/ui/androidUi-profilPage/app/src/main/res/drawable/white_background.xml" value="0.159" />
-        <entry key="..\:/mobile programming/ui/androidUi-profilPage/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/mobile programming/ui/androidUi-profilPage/app/src/main/res/layout/activity_main.xml" value="0.176" />
       </map>
     </option>
   </component>
