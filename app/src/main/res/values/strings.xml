@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">profilePage</string>
+    <string name="tv_username">Guna Dermawan</string>
+    <string name="iv_user_profile">user_profile_profile</string>
+    <string name="tv_user_email">gunadermawan@email.com</string>
+    <string name="iv_marker_background_top">image mark background top</string>
+    <string name="tv_payment">Pembayaran</string>
+    <string name="iv_payment">icon payment</string>
+</resources>
